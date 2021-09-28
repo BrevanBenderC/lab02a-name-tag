@@ -1,0 +1,26 @@
+body {
+    width: 400px;
+    text-align: center;
+    
+}
+header {
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 20px 20px 0px 0px;
+
+}
+h1 {
+    font-size: 4em;
+    margin: 0px;
+    font-weight: 900;
+    line: height 70px;px;
+
+}
+h2 {
+    font-size: 2em;
+    margin:0px
+    
+}
