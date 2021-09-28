@@ -28,6 +28,12 @@ main {
     font-family: cursive;
     padding-top: 15px;
     padding-bottom: 15px;
-
-
-    }
+  }
+footer {
+    background-color: red;
+    height: 25px;
+    width: 390px;
+    border-radius: 0px 0px 20px 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
